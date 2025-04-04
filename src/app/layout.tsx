@@ -78,6 +78,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <script type='text/javascript' src='//comparativehoneycomb.com/77/6a/1e/776a1eb01a29204fbe7ac6648a91be48.js'></script>
+      </head>
       <body
         className={cn(
           'overlflow-y-auto min-h-screen overflow-x-hidden bg-background font-sans antialiased',
